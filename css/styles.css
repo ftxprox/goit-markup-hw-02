@@ -21,7 +21,7 @@ body{
     text-transform: uppercase;
     color: #2e2f42;
 }
-.header-menu-nav{
+.header-menu-nav>li{
     font-weight: 500;
 }
 
