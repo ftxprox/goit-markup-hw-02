@@ -90,3 +90,13 @@ background-color: #2e2f42;
 .header-contact-link:focus {
     color: #404bbf;
 }
+.second-section-h{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.second-section-p {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
