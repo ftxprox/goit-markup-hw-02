@@ -41,13 +41,14 @@ background-color: #2e2f42;
     color: #ffffff;
     background-color: #4D5AE5;
     font-weight: 500;
+    cursor: pointer;
 }
 .first-section-button{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    background-color: #404BBF;
+    background-color: #4D5AE5;
 }
 .adress{
     font-style: normal;
