@@ -43,6 +43,12 @@ background-color: #2e2f42;
     background-color: #4D5AE5;
     cursor: pointer;
 }
+.first-section-button:hover{
+    background-color: #404BBF;
+}
+.first-section-button:focus{
+    background-color: #404BBF;
+}
 .adress{
     font-style: normal;
 }
