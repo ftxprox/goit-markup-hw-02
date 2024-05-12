@@ -21,11 +21,16 @@ body{
     text-transform: uppercase;
     color: #2e2f42;
 }
+
+.effective-solutions{
+    
+}
+
 .button-first-section{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     font-weight: 500;
 }
 .second-section{
