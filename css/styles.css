@@ -3,7 +3,7 @@ body{
     background-color: #FFFFFF;
     color: #434455;
 }
-.header-main-logo{
+.main-logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -11,6 +11,15 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:#4d5ae5;
+}
+.logo-accent{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
 }
 .button-first-section{
     line-height: 1.5;
