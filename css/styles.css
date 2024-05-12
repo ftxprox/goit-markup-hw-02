@@ -42,6 +42,13 @@ background-color: #2e2f42;
     background-color: #4D5AE5;
     font-weight: 500;
 }
+.first-section-button{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background-color: #404BBF;
+}
 .adress{
     font-style: normal;
 }
@@ -74,5 +81,4 @@ background-color: #2e2f42;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42;
-
 }
