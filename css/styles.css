@@ -28,3 +28,13 @@ body{
     background-color: #404BBF;
     font-weight: 500;
 }
+.second-section{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.second-section-p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
