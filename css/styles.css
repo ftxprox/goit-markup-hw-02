@@ -21,16 +21,17 @@ body{
     text-transform: uppercase;
     color: #2e2f42;
 }
-
 .footer{
 background-color: #2e2f42;
 }
-.footer-info{
+.footer-info-text{
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em
 }
-
+.footer-logo-accent{
+    color: #f4f4fd;
+}
 .button-first-section{
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -54,4 +55,12 @@ background-color: #2e2f42;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42
+}
+.adress{
+    font-style: normal;
+}
+.header-contact-link{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
