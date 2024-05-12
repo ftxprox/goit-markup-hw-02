@@ -76,8 +76,14 @@ background-color: #2e2f42;
 .adress{
     font-style: normal;
 }
-.header-contact-link{
+.header-contact-menu>li {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.header-contact-link:hover{
+    color: #404bbf;
+}
+.header-contact-link:focus {
+    color: #404bbf;
 }
