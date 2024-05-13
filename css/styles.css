@@ -134,3 +134,9 @@ background-color: #2e2f42;
 .third-section-li-bg>li{
     background-color: #FFFFFF;
 }
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
